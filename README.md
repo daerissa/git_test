@@ -1,1 +1,3 @@
-This is Denisa's first git project!
+#git_test
+My first repo
+Hello Odin!
